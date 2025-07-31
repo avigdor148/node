@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/avigdor148/node#readme",
   "dependencies": {
-    "bootstrap": "^5.3.7"
+    "bootstrap": "^5.3.7",
+    "jquery": "^3.7.1"
   }
 }
