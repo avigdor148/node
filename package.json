@@ -1,0 +1,22 @@
+{
+  "name": "proj1",
+  "version": "2.0.0",
+  "description": "my first node prog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avigdor148/node.git"
+  },
+  "author": "asg148",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avigdor148/node/issues"
+  },
+  "homepage": "https://github.com/avigdor148/node#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  }
+}
